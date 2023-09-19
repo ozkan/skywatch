@@ -27,7 +27,7 @@
 | 1    | [Oled Cover (transparent or smoked acrylic)](Plate/)                   |
 | 12   | M2x8mm Standoff/Spacer                                                 |
 | 24   | M2x6mm Screw                                                           |
-| 8    | Silicone Rubber                                                        |
+| 8    | Silicone Bumpers                                                       |
 
 
 ### Features
