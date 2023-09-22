@@ -61,5 +61,10 @@ Have questions or need help, reach out via [our Telegram group](https://t.me/mec
 - The design of this keyboard is based on the `0xB2 - splinky` board. Thanks [plut0nium](https://github.com/plut0nium)  
 - Huge shoutout to [Arda Kılıçdağı ](https://github.com/Ardakilic) for tons of advice and help.
 
+### Manufacturer
+- [Özkan Çelik](https://github.com/ozkan)
+
 ### License
 [MIT License](LICENSE)
+
+
