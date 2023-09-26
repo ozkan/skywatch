@@ -10,20 +10,20 @@
 
 ### Upper Middle Plate 
 4mm acrylic
-![switch plate](upper-middle-plate.svg)
+![upper middle plate](upper-middle-plate.svg)
 
 ### Lower Middle Plate 
 3mm acrylic
-![switch plate](lower-middle-plate.svg)
+![lower middle plate](lower-middle-plate.svg)
 
 
 ### Bottom Plate
 2mm or 3mm acrylic
 
-![switch plate](bottom-plate.svg)                           
+![bottom plate](bottom-plate.svg)                           
 
 
 ### Oled Cover                            
 Transparent or smoked acrylic       
-![switch plate](oled-cover.svg)
+![oled cover plate](oled-cover.svg)
 
